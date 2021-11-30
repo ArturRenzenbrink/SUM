@@ -3,15 +3,17 @@ README - IMPORTANT INFORMATION
 
 SUM
  
-Our application will let you organize all your spending and set limits to each category. For example, you don’t want to spend more than 50€ on parties. Then, you can view how much have you spent, and you also can maximize your benefits points given a budget. There are two available versions: one which stores the data in other files, and the other one works with the data you just entered. The first one is designed for people that want to see the evolution of their spending during a period. And the second one is more efficient and is used more like a calculator.
+Our application will let you organize all your spending and set limits to each category. For example, you don’t want to spend more than 50€ on parties. Then, you can view how much have you spent, and you also can maximize your benefits points given a budget. It is designed for people that want to see the evolution of their spending during a period, because in order to make it work, the user has to install also some files to store the data.
  
 INSTALLATION
  
 It is necessary to install Python 3, and the following libraries:
+
 ●	Matplotlib: which creates the graphs.
+
 ●	Pandas: to analyze your data.
  
-If you want to use the version that stores the data, you also need to install the following files: “users.txt”, “limits.txt”, and “expenses.txt”. Then, you are ready to open the file named “sum_store.py”. You may need to upload the “.txt” files to your interpreter or change the code including the path your computer needs to access them. For example instead of open(“users”, mode = “a”), use open(“/Users/angel/desktop/users, mode = “a”).
+IMPORTANT!!!! >>>  You also need to install the following files: “users.txt”, “limits.txt”, and “expenses.txt”. Then, you are ready to open the file named “sum_store.py”. You may need to upload the “.txt” files to your interpreter or change the code including the path your computer needs to access them. For example instead of open(“users”, mode = “a”), use open(“/Users/angel/desktop/users, mode = “a”).
  
 USAGE
  
@@ -31,7 +33,6 @@ We have used OOP, using the method “Class” in python. We have also used pand
  
 CREDITS
  
-Authors: Artur Renzenbrink, Ángel Conesa, Mario Guraieb, Abdallah Ghaddar, Ethan Lhoest and Blair Ferguson
+Authors: Ángel Conesa, Blair Ferguson, Abdallah Ghaddar, Mario Guraieb, Ethan Lhoest and Artur Renzenbrink
 
-![image](https://user-images.githubusercontent.com/87434940/143322270-ef03c84b-01a0-4ac1-a1c2-45b04f581faf.png)
 
