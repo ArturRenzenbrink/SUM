@@ -13,7 +13,7 @@ It is necessary to install Python 3, and the following libraries:
 
 ●	Pandas: to analyze your data.
  
-IMPORTANT!!!! >>>  You also need to install the following files: “users.txt”, “limits.txt”, and “expenses.txt”. Then, you are ready to open the file named “sum_store.py”. You may need to upload the “.txt” files to your interpreter or change the code including the path your computer needs to access them. For example instead of open(“users”, mode = “a”), use open(“/Users/angel/desktop/users, mode = “a”).
+IMPORTANT!!!! >>>  You also need to install the following files: “users.txt”, “limits.txt”, and “expenses.txt”. Then, you are ready to open the file named “sum.py”. You may need to upload the “.txt” files to your interpreter or change the code including the path your computer needs to access them. For example instead of open(“users”, mode = “a”), use open(“/Users/angel/desktop/users, mode = “a”).
 
 If you don't manage to install these files correctly, you will need to create them and in the first line include:
 
