@@ -27,15 +27,15 @@ If you don't manage to install these files correctly, you will need to create th
  
 USAGE
  
-People use Sum to see their expenses and try to minimize them. The user can add limits, expenses, and the application provides a good overview of them.
+● People use Sum to see their expenses and try to minimize them. The user can add limits, expenses, and the application provides a good overview of them.
  
-When the user initializes the app, it asks to log in or create an account. That way, different users can use the same app without interfering with each other. Then, the main menu is shown. You have 4 options: spending limits, visualizations and insights, manage spending and log out. You can access the option you want by typing its related number.
+● When the user initializes the app, it asks to log in or create an account. That way, different users can use the same app without interfering with each other. Then, the main menu is shown. You have 4 options: spending limits, visualizations and insights, manage spending and log out. You can access the option you want by typing its related number.
 
-In order to let the program work, you first should access “spending limits”, and add some limits. Each limit has two values: category and amount. For example food, 500, if you don’t want to spend more than €500 on food. Then, if you want to see your limits, you can click on display limits.
+● In order to let the program work, you first should access “spending limits”, and add some limits. Each limit has two values: category and amount. For example food, 500, if you don’t want to spend more than €500 on food. Then, if you want to see your limits, you can click on display limits.
 
-Once you have inserted some limits, you can insert expenses by going to “manage spending”. Each expense has four inputs: name of the expense, amount, category, and benefit produced by that expense from 1 to 10.
+● Once you have inserted some limits, you can insert expenses by going to “manage spending”. Each expense has four inputs: name of the expense, amount, category, and benefit produced by that expense from 1 to 10.
 
-After inserting limits and expenses, the main functions of the program are set to start working. When the user goes to “visualizations and insights”, the user can choose between three functions that will help him to organize his spendings, and prioritize them. The first option is to display the percentage of budget reached. This function calculates how much has the user spent on each category, and divides it by the limit, so it returns the percentage of the limit spent on each category. The second option “display composition”, creates a pie chart showing the weight of each category over the total money spent. Finally, the third function (“maximize benefit for given budget”) consist of an algorithm that maximizes the benefit points given a constraint budget that the user inserts.
+● After inserting limits and expenses, the main functions of the program are set to start working. When the user goes to “visualizations and insights”, the user can choose between three functions that will help him to organize his spendings, and prioritize them. The first option is to display the percentage of budget reached. This function calculates how much has the user spent on each category, and divides it by the limit, so it returns the percentage of the limit spent on each category. The second option “display composition”, creates a pie chart showing the weight of each category over the total money spent. Finally, the third function (“maximize benefit for given budget”) consist of an algorithm that maximizes the benefit points given a constraint budget that the user inserts.
  
 EXTRA INFORMATION
  
